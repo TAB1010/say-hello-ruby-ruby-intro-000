@@ -1,1 +1,3 @@
-say_hello("Gabriela")
+def greeting
+  puts "Hello, Ruby programmer!"
+end
